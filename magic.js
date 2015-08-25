@@ -5,3 +5,4 @@ var foreverRun = function () {
   foreverRun();
   console.log('poop');
 }
+var me = new;
