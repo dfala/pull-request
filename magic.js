@@ -3,7 +3,7 @@
 //We love comments;
 //Comments are our friends;
 var foreverRun = function () {
-  console.log("Daniel Rocks");
+  console.log("Larry Rocks");
   foreverRun();
   console.log('can't poop');
 }
