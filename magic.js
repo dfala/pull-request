@@ -5,3 +5,5 @@ var foreverRun = function () {
   foreverRun();
   console.log('poop');
 }
+
+foreverRun()
