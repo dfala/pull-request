@@ -6,6 +6,7 @@ var foreverRun = function () {
   console.log("Daniel Rocks");
   foreverRun();
   console.log('can't poop');
+  console.log('Pull!!!!');
 }
 
 foreverRun()
